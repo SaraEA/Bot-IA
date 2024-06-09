@@ -34,4 +34,4 @@ async def IA(ctx):
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
 
-bot.run("MTI0MzM0MDI2ODY0ODc5MjE0NQ.GYPC8z.mtyKHex2PNhZuc5QE9-_g0e91fQm2zWcLvf6Is")
+bot.run("YOUR TOKEN HERE")
